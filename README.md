@@ -1,5 +1,5 @@
 # Energy Systems Modelling Project
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.batisim.net/images/stories/cetteg/eplus-graph-banner2.png" width="auto" height="auto" alt="EnergyPlus">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.batisim.net/images/stories/cetteg/eplus-graph-banner2.png" width="auto" height="auto" alt="EnergyPlus">
 
 ## Welcome to my <em>Energy Systems Modelling</em> Project repository!
 
