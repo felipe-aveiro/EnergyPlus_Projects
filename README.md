@@ -1,5 +1,5 @@
 # Energy Systems Modelling Project
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.batisim.net/images/stories/cetteg/eplus-graph-banner2.png" width="auto" height="auto" alt="EnergyPlus">
+<img src="https://www.simscale.com/wp-content/uploads/2017/06/Industries_Banner_HVAC-1024x299.jpg" alt="HVAC" width="auto" height="auto">
 
 ## Welcome to my <em>Energy Systems Modelling</em> Project repository!
 
